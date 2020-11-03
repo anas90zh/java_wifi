@@ -15,10 +15,6 @@ public class Bauern {
 		ar.add(new Tier("schaffe",20));
 		ar.add(new Tier("Hund",10));
 
-	
-	}
-
-	public static void main(String[] args) {
 		for(Tier t:ar)
 			System.out.println("name "+ t.getName()+" Alter " + t.getAlter() );
 	}
