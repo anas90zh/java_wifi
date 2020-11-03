@@ -14,7 +14,7 @@ public class Tier {
 	public int getAlter() {
 		return alter;
 	}
-	^
+
 	
 	
 	
