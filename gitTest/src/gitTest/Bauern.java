@@ -13,8 +13,7 @@ public class Bauern {
 		ar.add(new Tier("hase",5));
 		ar.add(new Tier("schaffe",20));
 		ar.add(new Tier("Hund",10));
-<<<<<<< HEAD
-//master change 02
+
 
 		for(Tier t:ar)
 			System.out.println("name "+ t.getName()+" Alter " + t.getAlter() );
